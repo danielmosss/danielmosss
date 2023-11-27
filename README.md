@@ -1,4 +1,5 @@
 ### Hi there 👋
+- https://wakapi.dev/api/badge/danielmosss/danielmosss/interval:30_days?label=last 30d
 - 🌱 I’m currently learning GoLang
 - ⚡ Fun fact: Sometimes you need to shut up and stop talking so much. :)
 
