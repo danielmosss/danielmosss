@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ![](https://wakapi.dev/api/badge/danielmosss/danielmosss/interval:30_days?label=last%2030d)
+- Code for ![](https://wakapi.dev/api/badge/danielmosss/danielmosss/interval:30_days?label=last%2030d)
 - 🌱 I’m currently learning GoLang
 - ⚡ Fun fact: Sometimes you need to shut up and stop talking so much. :)
 
