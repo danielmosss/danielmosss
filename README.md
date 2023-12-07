@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Code for ![](https://wakapi.dev/api/badge/danielmosss/danielmosss/interval:30_days?label=last%2030d)
-- 🌱 I’m currently learning GoLang ![with this project](https://github.com/danielmosss/dashboardTodo)
+- 🌱 I’m currently learning GoLang <a href="https://github.com/danielmosss/dashboardTodo">with this project</a>
 - ⚡ Fun fact: Sometimes you need to shut up and stop talking so much. :)
 
 ### Check out my stats 
