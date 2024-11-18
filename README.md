@@ -1,5 +1,5 @@
 ## Hi, I'm Danielmosss 👋👋
-- Code for ![](https://wakapi.dev/api/badge/danielmosss/danielmosss/interval:30_days?label=last%2030d)
+- Code for (This stat is broken, im hosting wakapi local)
 - 🌱 I’m currently learning C#
 - ⚡ Junior Software Developer
 - 🧬 Using Github for School & Personal Projects
